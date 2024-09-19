@@ -15,8 +15,7 @@ This project implements a Q-Learning algorithm in a Gridworld environment. The a
 - `main.py`: This is the main script where the Q-learning algorithm is implemented and the environment is simulated.
 - `q_learning.py`: Contains utility functions for plotting and visualization.
 
-(/images/Screenshot_2024-09-19_at_8.09.18_AM.png)
-(images/Screenshot_2024-09-19_at_8.09.50_AM.png)
+
 
 ## Dependencies
 
