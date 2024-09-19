@@ -15,6 +15,9 @@ This project implements a Q-Learning algorithm in a Gridworld environment. The a
 - `main.py`: This is the main script where the Q-learning algorithm is implemented and the environment is simulated.
 - `q_learning.py`: Contains utility functions for plotting and visualization.
 
+![Training Progress](images/Screenshot 2024-09-19 at 8.09.18 AM.png)
+![Game](images/Screenshot 2024-09-19 at 8.09.50 AM.png)
+
 ## Dependencies
 
 The following libraries are required to run the project:
@@ -30,6 +33,5 @@ To install the required dependencies, run:
 pip install numpy matplotlib seaborn gym
 
 
-![Training Progress](images/Screenshot 2024-09-19 at 8.09.18 AM.png)
-![Game](images/Screenshot 2024-09-19 at 8.09.50 AM.png)
+
 
