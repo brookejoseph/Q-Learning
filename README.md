@@ -28,3 +28,8 @@ To install the required dependencies, run:
 
 ```bash
 pip install numpy matplotlib seaborn gym
+
+
+![Training Progress](images/Screenshot 2024-09-19 at 8.09.18 AM.png)
+![Game](images/Screenshot 2024-09-19 at 8.09.50 AM.png)
+
